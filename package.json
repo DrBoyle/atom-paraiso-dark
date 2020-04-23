@@ -1,13 +1,13 @@
 {
-  "name": "paraiso-dark",
+  "name": "glueuser-dark",
   "theme": "syntax",
   "version": "2.0.2",
-  "description": "A color scheme inspired by the colorful illustrations by Brazilian artist Rubens LP",
+  "description": "A color scheme inspired by the colorful illustrations by Brazilian artist Rubens LP with some adjustments",
   "repository": "https://github.com/idleberg/atom-paraiso-dark",
   "license": "CC-BY-SA-4.0",
   "author": {
     "name": "Jan T. Sott",
-    "url": "http://github.com/idleberg"
+    "url": "http://github.com/DrBoyle"
   },
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
